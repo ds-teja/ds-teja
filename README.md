@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ds-teja" alt="ds-teja" /></a> </p>
 
-# Blogs posts
+# Latest Medium Articles
 <!-- BLOG-POST-LIST:START -->
 - [Advanced Seaborn: Demystifying the Complex Plots!](https://levelup.gitconnected.com/advanced-seaborn-demystifying-the-complex-plots-537582977c8c?source=rss-33e19ccd8545------2)
 - [Mastering Seaborn: Demystifying the Complex Plots!](https://levelup.gitconnected.com/mastering-seaborn-demystifying-the-complex-plots-cd5744fce4be?source=rss-33e19ccd8545------2)
