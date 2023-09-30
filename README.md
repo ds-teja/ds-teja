@@ -1,11 +1,11 @@
 <h1 align="center">Hi Data Enthusiast!👋, I'm Ravi Teja</h1>
-<h3 align="center">I am pursuing BSc Degree in Data Science from IIT Madras, Mean time sharing In-depth Articles and Projects. Currently, I am working on a 100-Day Machine learning and Deep Learning Challenge! Join me in this Journey, Let's learn and grow together :)</h3>
+<h3 align="center">I am pursuing a BSc Degree in Data Science from IIT Madras, Mean time sharing In-depth Articles and Projects. Currently, I am working on a 100-Day Machine learning and Deep Learning Challenge! Join me in this Journey, Let's learn and grow together :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ds-teja&label=Profile%20views&color=0e75b6&style=flat" alt="ds-teja" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ds-teja" alt="ds-teja" /></a> </p>
 
-### Blogs posts
+# Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
