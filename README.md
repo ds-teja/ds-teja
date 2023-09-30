@@ -1,11 +1,9 @@
 <h1 align="center">Hi Data Enthusiast!👋, I'm Ravi Teja</h1>
-<h3 align="center">I am pursuing a BSc Degree in Data Science from IIT Madras, Mean time sharing In-depth Articles and Projects. Currently, I am working on a 100-Day Machine learning and Deep Learning Challenge! Join me in this Journey, Let's learn and grow together :)</h3>
+<h4 align="center">I am pursuing a BSc Degree in Data Science from IIT Madras, Mean time sharing In-depth Articles and Projects. Currently, I am working on a 100-Day Machine learning and Deep Learning Challenge! Join me in this Journey, Let's learn and grow together :)</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ds-teja&label=Profile%20views&color=0e75b6&style=flat" alt="ds-teja" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ds-teja" alt="ds-teja" /></a> </p>
-
-# Latest Medium Articles
+### Latest Medium Articles
 <!-- BLOG-POST-LIST:START -->
 - [Advanced Seaborn: Demystifying the Complex Plots!](https://levelup.gitconnected.com/advanced-seaborn-demystifying-the-complex-plots-537582977c8c?source=rss-33e19ccd8545------2)
 - [Mastering Seaborn: Demystifying the Complex Plots!](https://levelup.gitconnected.com/mastering-seaborn-demystifying-the-complex-plots-cd5744fce4be?source=rss-33e19ccd8545------2)
@@ -14,12 +12,13 @@
 - [Mastering NumPy: A Data Enthusiast’s Essential Companion](https://python.plainenglish.io/mastering-numpy-a-data-enthusiasts-essential-companion-392cdbe39e84?source=rss-33e19ccd8545------2)
 <!-- BLOG-POST-LIST:END -->
 
+#### Check out Medium for More - <a href="https://medium.com/@tejag311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tejag311" height="30" width="40" /></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ravi6123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ravi6123" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ravi6123" target="blank"><img align="center" src="images/linked-in.svg" alt="ravi6123" height="30" width="40" /></a>
 <a href="https://kaggle.com/dstejag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dstejag" height="30" width="40" /></a>
 <a href="https://hashnode.com/@teja311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@teja311" height="30" width="40" /></a>
-<a href="https://medium.com/@tejag311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tejag311" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ds-teja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ds-teja" height="30" width="40" /></a>
 </p>
 
