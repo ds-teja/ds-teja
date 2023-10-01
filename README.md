@@ -9,7 +9,7 @@
 
 ### Latest Medium Articles
 <!-- BLOG-POST-LIST:START -->
-- [Thank YOU! I’ve hit 100 followers in one month and Here’s what I learned!](https://medium.com/@tejag311/thank-you-ive-hit-100-followers-in-one-month-and-here-s-what-i-learned-eddc74fca064?source=rss-33e19ccd8545------2)
+- [Thank YOU! I’ve hit 100 followers in one month and Here’s what I learned!](https://medium.com/readers-digests/thank-you-ive-hit-100-followers-in-one-month-and-here-s-what-i-learned-eddc74fca064?source=rss-33e19ccd8545------2)
 - [Mastering Plotly: Let your Visualizations Talk Through Plotly](https://medium.datadriveninvestor.com/mastering-plotly-let-your-visualizations-talk-through-plotly-492d6e277ca4?source=rss-33e19ccd8545------2)
 - [Advanced Seaborn: Demystifying the Complex Plots!](https://levelup.gitconnected.com/advanced-seaborn-demystifying-the-complex-plots-537582977c8c?source=rss-33e19ccd8545------2)
 - [Mastering Seaborn: Demystifying the Complex Plots!](https://levelup.gitconnected.com/mastering-seaborn-demystifying-the-complex-plots-cd5744fce4be?source=rss-33e19ccd8545------2)
