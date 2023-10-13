@@ -9,11 +9,11 @@
 
 ### Latest Medium Articles
 <!-- BLOG-POST-LIST:START -->
+- [Introduction to Machine Learning: Exploring Its Many Forms](https://pub.towardsai.net/introduction-to-machine-learning-exploring-its-many-forms-672c4dd5841d?source=rss-33e19ccd8545------2)
 - [Thank YOU! I’ve hit 100 followers in one month and Here’s what I learned!](https://medium.com/readers-digests/thank-you-ive-hit-100-followers-in-one-month-and-here-s-what-i-learned-eddc74fca064?source=rss-33e19ccd8545------2)
 - [Mastering Plotly: Let your Visualizations Talk Through Plotly](https://medium.datadriveninvestor.com/mastering-plotly-let-your-visualizations-talk-through-plotly-492d6e277ca4?source=rss-33e19ccd8545------2)
 - [Advanced Seaborn: Demystifying the Complex Plots!](https://levelup.gitconnected.com/advanced-seaborn-demystifying-the-complex-plots-537582977c8c?source=rss-33e19ccd8545------2)
 - [Mastering Seaborn: Demystifying the Complex Plots!](https://levelup.gitconnected.com/mastering-seaborn-demystifying-the-complex-plots-cd5744fce4be?source=rss-33e19ccd8545------2)
-- [Advanced Maplotlib: A Comprehensive Guide to Data Visualization](https://pub.towardsai.net/advanced-maplotlib-a-comprehensive-guide-to-data-visualization-a2263c863492?source=rss-33e19ccd8545------2)
 <!-- BLOG-POST-LIST:END -->
 
 #### Check out Medium for More - <a href="https://medium.com/@tejag311" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="@tejag311" height="30" width="40" /></a>
