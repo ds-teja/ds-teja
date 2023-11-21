@@ -16,7 +16,7 @@
 - [Mastering Seaborn: Demystifying the Complex Plots!](https://levelup.gitconnected.com/mastering-seaborn-demystifying-the-complex-plots-cd5744fce4be?source=rss-33e19ccd8545------2)
 <!-- BLOG-POST-LIST:END -->
 
-#### Check out Medium for More - <a href="https://medium.com/@tejag311" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="@tejag311" height="30" width="40" /></a>
+#### Check out my Medium Profile for More - <a href="https://medium.com/@tejag311" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="@tejag311" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
