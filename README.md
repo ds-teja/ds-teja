@@ -9,11 +9,11 @@
 
 ### Latest Medium Articles
 <!-- BLOG-POST-LIST:START -->
+- [Mathematics for Data Science Part 0: Understanding the Significance of Maths in Data Science.](https://medium.com/@tejag311/mathematics-for-data-science-part-0-understanding-the-significance-of-maths-in-data-science-3e26d3ed7840?source=rss-33e19ccd8545------2)
 - [Introduction to Machine Learning: Exploring Its Many Forms](https://pub.towardsai.net/introduction-to-machine-learning-exploring-its-many-forms-672c4dd5841d?source=rss-33e19ccd8545------2)
 - [Thank YOU! I’ve hit 100 followers in one month and Here’s what I learned!](https://medium.com/@tejag311/thank-you-ive-hit-100-followers-in-one-month-and-here-s-what-i-learned-eddc74fca064?source=rss-33e19ccd8545------2)
 - [Mastering Plotly: Let your Visualizations Talk Through Plotly](https://medium.datadriveninvestor.com/mastering-plotly-let-your-visualizations-talk-through-plotly-492d6e277ca4?source=rss-33e19ccd8545------2)
 - [Advanced Seaborn: Demystifying the Complex Plots!](https://levelup.gitconnected.com/advanced-seaborn-demystifying-the-complex-plots-537582977c8c?source=rss-33e19ccd8545------2)
-- [Mastering Seaborn: Demystifying the Complex Plots!](https://levelup.gitconnected.com/mastering-seaborn-demystifying-the-complex-plots-cd5744fce4be?source=rss-33e19ccd8545------2)
 <!-- BLOG-POST-LIST:END -->
 
 #### Check out my Medium Profile for More - <a href="https://medium.com/@tejag311" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" alt="@tejag311" height="30" width="40" /></a>
