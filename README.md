@@ -1,9 +1,9 @@
-<h1 align="center">Hi Data Enthusiast!👋, I'm Ravi Teja</h1>
+<h1 align="center">Hi there!👋, Myself Ravi Teja</h1>
 
 <h3 align="center">Data Scientist</h3>
   
-- 🌱 I am pursuing a BSc Degree in Data Science from IIT Madras, Meantime sharing In-depth Articles and Projects.
-- 👨‍💻 I am currently working on a [100-day Machine Learning and Deep Learning Challenge](https://github.com/ds-teja/100_Days_MLDL)! Enhancing my own understanding of the concepts and sharing insights:)
+- 🌱 BSc Graduate in Data Science and Programming from IIT Madras, Meantime sharing In-depth Articles and Projects.
+- 👨‍💻 Result-driven Data Scientist with 2 years of Experience in developing machine learning models, scalable backend systems, and leveraging AWS Cloud solutions
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ds-teja&label=Profile%20views&color=0e75b6&style=flat" alt="ds-teja" /> </p>
 
