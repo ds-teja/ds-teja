@@ -2,8 +2,9 @@
 
 <h3 align="center">Data Scientist</h3>
   
-- 🌱 BSc Graduate in Data Science and Programming from IIT Madras, Meantime sharing In-depth Articles and Projects.
-- 👨‍💻 Result-driven Data Scientist with 2 years of Experience in developing machine learning models, scalable backend systems, and leveraging AWS Cloud solutions
+- 👨🏻‍🎓 BSc Graduate in Data Science and Programming from IIT Madras, where I got to strengthen my knowledge in ML, DL, NLP, LLM, and GenAI.
+- 🧑🏻‍💻 Result-driven Data Scientist with 2 years of Experience in developing machine learning models, scalable backend systems, and leveraging AWS Cloud solutions.
+- ✍🏻 Writes In-depth Data Science Related articles in medium, with over 4.5k+ Followers.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ds-teja&label=Profile%20views&color=0e75b6&style=flat" alt="ds-teja" /> </p>
 
